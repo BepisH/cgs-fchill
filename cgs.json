@@ -1,6 +1,6 @@
 {
   "name": "Furchill: Le jeu de cartes",
-  "allCardsUrl": null,
+  "allCardsUrl": "https://github.com/BepisH/cgs-fchill/blob/main/AllCards.json?raw=true",
   "allCardsUrlPageCount": 1,
   "allCardsUrlPageCountIdentifier": "",
   "allCardsUrlPageCountDivisor": 1,
@@ -19,7 +19,7 @@
   "allSetsUrlWrapped": false,
   "allSetsUrlZipped": false,
   "autoUpdate": -1,
-  "autoUpdateUrl": null,
+  "autoUpdateUrl": "https://github.com/BepisH/cgs-fchill/blob/main/cgs.json?raw=true",
   "bannerImageFileType": "png",
   "bannerImageUrl": null,
   "cardBackFaceImageUrls": [],
@@ -82,7 +82,7 @@
   "gameStartHandCount": 0,
   "gameStartPointsCount": 0,
   "playMatImageFileType": "png",
-  "playMatImageUrl": "C:/Users/Eclypse/AppData/Local/Temp/Finol Digital LLC/Card Game Simulator\\Terrain1.png",
+  "playMatImageUrl": "https://raw.githubusercontent.com/BepisH/cgs-fchill/refs/heads/main/PlayMat.png",
   "playMatSize": {
     "x": 57.6,
     "y": 32.4
