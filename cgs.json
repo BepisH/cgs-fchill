@@ -30,7 +30,7 @@
   "cardIdStop": "",
   "cardImageFileType": "png",
   "cardImageProperty": "",
-  "cardImageUrl": "https://raw.githubusercontent.com/BepisH/cgs-fchill/main/sets/{cardSetCode}/{cardId}.png",
+  "cardImageUrl": "https://raw.githubusercontent.com/BepisH/cgs-fchill/main/sets/Furrchill/{cardId}.{cardImageFileType}",
   "cardNameBackIdentifier": "",
   "cardNameIdentifier": "name",
   "cardNameIsUnique": true,
