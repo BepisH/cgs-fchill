@@ -30,7 +30,7 @@
   "cardIdStop": "",
   "cardImageFileType": "png",
   "cardImageProperty": "",
-  "cardImageUrl": "",
+  "cardImageUrl": "https://raw.githubusercontent.com/BepisH/cgs-fchill/main/sets/{cardSetCode}/{cardId}.png",
   "cardNameBackIdentifier": "",
   "cardNameIdentifier": "name",
   "cardNameIsUnique": true,
@@ -61,7 +61,7 @@
     "y": 4
   },
   "cgsGamesLink": null,
-  "copyright": "",
+  "copyright": "Eclypse",
   "deckFileAltId": "dbfId",
   "deckFileTxtId": "set",
   "deckFileType": "txt",
